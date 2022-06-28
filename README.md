@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I will be creating a recipes website. It will consist of an index page linked to a few recipes. For the moment, it will consist only of HTML component. In the future, the CSS component will be added.
