@@ -1,0 +1,1 @@
+This project will be a learning lesson from The Odin project. I will create a recipes website to practice the HTML component in the first part of this project. In a second part, I will integrate the CSS component to the websitde.
