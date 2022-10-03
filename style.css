@@ -1,0 +1,26 @@
+html {
+    background-color: rgba(201, 196, 191, 0.314);
+}
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.border {
+    border-style: double;
+    border-color: rgb(241, 104, 6);
+    border-width: 5px;
+}
+
+.picture {
+    height: 250px;
+    width: auto;
+}
+
+.center {
+    text-align: center;
+}
